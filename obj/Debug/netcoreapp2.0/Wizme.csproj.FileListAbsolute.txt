@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\Wizme\Wizme\bin\Debug\netcoreapp2.0\Wizme.deps.json
+C:\Users\ASUS\source\repos\Wizme\Wizme\bin\Debug\netcoreapp2.0\Wizme.runtimeconfig.json
+C:\Users\ASUS\source\repos\Wizme\Wizme\bin\Debug\netcoreapp2.0\Wizme.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\Wizme\Wizme\bin\Debug\netcoreapp2.0\Wizme.dll
+C:\Users\ASUS\source\repos\Wizme\Wizme\bin\Debug\netcoreapp2.0\Wizme.pdb
+C:\Users\ASUS\source\repos\Wizme\Wizme\obj\Debug\netcoreapp2.0\Wizme.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\source\repos\Wizme\Wizme\obj\Debug\netcoreapp2.0\Wizme.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Wizme\Wizme\obj\Debug\netcoreapp2.0\Wizme.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Wizme\Wizme\obj\Debug\netcoreapp2.0\Wizme.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Wizme\Wizme\obj\Debug\netcoreapp2.0\Wizme.dll
+C:\Users\ASUS\source\repos\Wizme\Wizme\obj\Debug\netcoreapp2.0\Wizme.pdb
